@@ -20,8 +20,9 @@ node server.js
 
 The user will be told what port the app is running on and can go to `localhost:` in the web browser.
 
-<!-- The application is also located on Heroku at this link: -->
+The application is also located on Heroku at this link:
 
+https://still-island-18467.herokuapp.com/
 
 ## Installation
 
